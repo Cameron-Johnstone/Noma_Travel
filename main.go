@@ -7,8 +7,7 @@ import (
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 
-	// Import models using a relative path
-	"./models"
+	"github.com/Cameron-Johnstone/Noma_Travel/models"
 )
 
 var db *gorm.DB

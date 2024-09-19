@@ -16,6 +16,7 @@ echo "# Binaries for programs and plugins
 
 # Go workspace file
 go.work
+go.work.sum
 
 # Environment variables
 .env" > .gitignore
